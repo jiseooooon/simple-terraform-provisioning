@@ -1,3 +1,3 @@
-provider "aws" {
-  region = var.region
-}
+~)^�+-zo�
+## Updated at:
+2024-05-31T18:53:54.519+09:00
